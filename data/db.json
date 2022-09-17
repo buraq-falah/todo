@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Take breakfast",
+      "details": "it's good to start your day actively zaid",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Go Gym",
+      "details": "it's good to start your day actively ....",
+      "completed": false
+    },
+    {
+      "title": "vue course",
+      "details": "completed to be frontend developer",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
